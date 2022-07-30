@@ -1,0 +1,54 @@
+
+  body{ 
+   background-color: rgb(241, 188, 248);
+} 
+   .cabezal {
+   text-transform: uppercase;
+   background-color: rgb(233, 138, 217);
+   font-family: Georgia, serif 20px;
+}
+ .p { color: #fff;
+    opacity:0.8;
+    text-align:center;
+    margin-left: 200px;
+    margin-right: 10px;
+    display: inline-block;
+    margin-bottom: -100px;
+    text-align: end;
+    padding-top: 50px;
+    padding: 10px;
+   overflow:hidden;
+ }
+  .p:hover {
+    opacity:1;
+   }
+   .teste {
+margin-left:86%;
+display: inline-block;
+text-align:left;
+width: 300px;
+
+}
+#video:hover {
+
+}
+
+.imagen {
+   border-bottom: 1.5px solid rgb(243, 144, 210)   ;
+}
+
+.titulos {
+border-bottom: 1.5px solid rgb(243, 144, 210) ;
+font-family: Georgia, serif;
+}
+.subtitulo {
+   text-transform: uppercase;
+}
+ .receta {
+   font-family: Georgia, serif;
+ }
+
+ a {
+   text-decoration: none;
+ }
+ 

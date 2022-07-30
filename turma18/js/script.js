@@ -1,0 +1,1 @@
+let message = "olá, mundo"; // console.log( message)
